@@ -13,6 +13,6 @@
 #     of one of the below files into .platform.app.yaml in your repository root. See the README for more
 #     details.
 ##################################
-- !include pip.app.yaml
+- !include pip.dlclmyapp.yaml
 # - !include pipenv.app.yaml
 # - !include poetry.app.yaml
